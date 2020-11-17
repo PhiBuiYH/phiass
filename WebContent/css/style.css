@@ -1,0 +1,87 @@
+img {
+    width: 100%;
+    height: 250px;
+}
+
+.menu {
+    background-color: pink;
+    border-collapse: collapse;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+
+.cell {
+    width: 15%;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.link:hover {
+    color: red;
+    cursor: pointer;
+}
+
+footer {
+    background-color: pink;
+    color: white;
+    height: 115px;
+    text-align: center;
+    font-size: 16px;
+    font-family: sans-serif;
+    padding-top: 20px;
+    margin-top: 30px;
+}
+
+.fb-link {
+    color: white;
+    text-decoration: none;
+}
+
+.fb-link:hover {
+    color: red;
+    cursor: pointer;
+}
+
+.footer-seperator {
+    font-size: 20px;
+}
+
+article {
+    font-size: 24px;
+    font-family: sans-serif;
+    text-align: justify;
+    width: 950px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 180px;
+    line-height: 1.6;
+}
+/* Design for about-me.html */
+#avatar {
+    float: left;
+    width: 30%;
+    height: 270px;
+    margin-top: 90px;
+    margin-left: 20px;
+}
+
+#profile-container {
+    float: left;
+    width: 48%;
+    padding-right: 70px;
+    font-size: 20px;
+    line-height: normal;
+}
+
+.info {
+    font-size: 20px;
+}
+
+
+
